@@ -50,6 +50,7 @@ const ProductDetail = () => {
               <div className="ui brown block header">
                 <h3>{catagory}</h3> <p>{description}</p>
               </div>
+              Hello
             </div>
           </div>
         </div>
