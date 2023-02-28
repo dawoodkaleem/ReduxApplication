@@ -24,6 +24,7 @@ const ProductComponent = () => {
                 <div className="meta price">$ {price}</div>
                 <div className="meta">{catagory}</div>
               </div>
+              Hello
             </div>
           </div>
         </Link>
